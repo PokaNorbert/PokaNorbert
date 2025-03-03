@@ -12,7 +12,7 @@ Throughout my career, I have learned a lot, managing to acquire many skills. I l
 
 I don't want to talk/write too much, because there is a lot of work to do. 
 
-For more details, please access the links leading to my LinkedIn and Europass profiles. If you have any questions to ask me, please contact me privately! I will respond as quickly as possible.
+For more details, please access the links leading to my LinkedIn and Europass profiles (check the left side of the page). If you have any questions to ask me, please contact me privately! I will respond as quickly as possible.
 
 * 🌍  I'm based in Floresti (Cluj), Romania
 * ✉️  You can contact me at [orbert.pn@gmail.com](mailto:orbert.pn@gmail.com)
