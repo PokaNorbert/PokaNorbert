@@ -16,5 +16,5 @@ If you have any questions to ask me, please contact me privately! I will respond
 
 * 🌍  I'm based in Floresti (Cluj), Romania
 * ✉️  You can contact me at [orbert.pn@gmail.com](mailto:orbert.pn@gmail.com)
-* 🖥️  I am open to working full-time at a company that needs a QA Manual Tester. 
+* 🖥️  I am open to working full-time at a company that needs a QA Manual Tester
 * ⚡  I aspire to become QA Automation Tester
