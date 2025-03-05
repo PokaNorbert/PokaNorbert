@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior QA Tester and Coordinator of Geftab (crypto project)
 -----------------------------------------------------------
 
-I can describe myself as a person who always wants to succeed, being constantly motivated for this. I feed on victories in my career, and I quickly learn from defeats. 
+I am a highly motivated professional with a strong passion for continuous learning and growth. My journey in IT began last year as a trainee, allowing me to build a solid foundation in hardware expertise and advanced knowledge of electrical devices.
 
-Since last year I entered the IT field as a trainee, having at my base, before entering IT, quite a lot of experience in hardware and advanced knowledge of using electrical devices. The QA field attracted me the most, having the opinion that it suits me the most. I like to contribute to the quality of products and services used by people. I feel prepared to work full-time as a QA in this industry. 
+Through various training programs and self-learning initiatives, I discovered my passion for Quality Assurance (QA). This field enables me to thrive by applying my skills to improve the reliability and excellence of products and services. I am eager to contribute my expertise in problem-solving, process improvement, debugging, and testing to a dynamic team. Now, I am fully prepared to step into a full-time QA role and further develop my expertise.
 
-Throughout my career, I have learned a lot, managing to acquire many skills. I like to learn a lot and feel like I am capable of accomplishing many activities. I like to receive challenges and new opportunities in my life. 
+Why choose me? I embrace challenges, actively seek new opportunities, and consistently strive for excellence. To reinforce my knowledge, I recently achieved my ISTQB certification, which has given me deeper insights into the testing process and best practices.
 
-I don't want to talk/write too much, because there is a lot of work to do. 
+If you'd like to connect or discuss potential opportunities, feel free to reach out. I’d love to explore how we can align our goals and values.
 
-For more details, please access the links leading to my LinkedIn and Europass profiles (check the left side of the page). If you have any questions to ask me, please contact me privately! I will respond as quickly as possible.
+For more details, please access the links leading to my LinkedIn and Europass profiles (check the left side of the page). 
 
 * 🌍  I'm based in Floresti (Cluj), Romania
 * ✉️  You can contact me at [orbert.pn@gmail.com](mailto:orbert.pn@gmail.com)
