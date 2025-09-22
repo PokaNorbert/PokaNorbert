@@ -8,7 +8,7 @@ I am a highly motivated professional with a strong passion for continuous learni
 
 Through training programs and self-learning, I discovered my passion for Quality Assurance (QA). This field enables me to thrive by applying my skills to improve the reliability and excellence of products and services. I have worked full-time as a Manual QA at Quantic Lab, where I gained valuable professional experience in testing and process improvement. Now, I am eager to continue my QA journey and further strengthen my expertise in the field.
 
-Why choose me? I embrace challenges, actively seek new opportunities, and consistently strive for excellence. My ISTQB Foundation Level certification, combined with my accumulated professional and project experience, has provided me with a strong understanding of the testing process and industry best practices. In addition, this year I have been studying test automation, focusing mainly on Python while also exploring Java, to expand my skill set beyond manual testing.
+*Why choose me?* I embrace challenges, actively seek new opportunities, and consistently strive for excellence. My ISTQB Foundation Level certification, combined with my accumulated professional and project experience, has provided me with a strong understanding of the testing process and industry best practices. In addition, this year I have been studying test automation, focusing mainly on Python while also exploring Java, to expand my skill set beyond manual testing.
 
 If you would like to connect or discuss potential opportunities, feel free to reach out. I would be happy to explore how we can align our goals and values.
 
